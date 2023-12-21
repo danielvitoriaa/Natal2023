@@ -1,0 +1,60 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text color="#555" />
+      <mj-image padding="0"/>
+      <mj-section background-color="#FFF" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="#EEE">
+    <mj-section background-color="#FFF" padding="0">
+			<mj-column>
+        <mj-text align="center" color="#000" font-family="UniverseLTStd, Arial" font-size="13px">
+          Abrir no<a href="#" target="_blank" style="color:#000"> Browser.</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+      <mj-column>
+      	<mj-image width="600px" src="./images/hero.png"/>
+      </mj-column>
+		</mj-section>
+    
+    <mj-section>
+    	<mj-column>
+      	<mj-text>
+        	
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+    	<mj-column>
+      	<mj-image width="600px" src="./images/bar.png"/>
+      </mj-column>
+    </mj-section>
+    
+    
+    
+    <mj-section>
+    	<mj-column>
+      	<mj-text align="center" padding="0 10px">
+        	<p style="margin:0; padding-bottom:10px font-size:10px; line-height: 15px; margin-bottom:10px;">
+            <span style="color:#111111 !important; text-decoration:none;">
+            	<strong>
+              Escola secundaria Jose Afonso (Escola Sede)
+              </strong>
+              <br /> Rua da Republica 2670-468, Loures | Tel. +351 21 982 71 10 | Email: esjaloures@esjaloures.org          
+            </span>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+  </mj-body>
+</mjml>
